@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=NetCN6_1 Pin=J10-1
+Removed Pin From Net: NetName=NetCN6_1 Pin=J10-2
+Removed Pin From Net: NetName=NetCN5_1 Pin=J11-1
+Removed Pin From Net: NetName=NetCN5_1 Pin=J11-2
+Removed Member From Class: ClassName=BatterySource_RelaisOut Member=J10
+Removed Member From Class: ClassName=BatterySource_RelaisOut Member=J11
+Change Component Comment : Designator=CN6 Old Comment=Printkroonsteen 2 POL New Comment=On/Off Switch
+Change component parameters: Designator = "C1" ("C1"); Footprint = "VISH-293D-E_L"; UniqueID = "\YTESCCHC" ("\YTESCCHC")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.be/datasheet/2/40/tap-776819.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "15.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAP106M050BRW?qs=GjEaAqXp9rZGx11KfVU76g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "VISH-293D-E_L"; UniqueID = "\TVEANDIO" ("\TVEANDIO")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.be/datasheet/2/40/tap-776819.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "15.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAP106M050BRW?qs=GjEaAqXp9rZGx11KfVU76g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "VISH-293D-E_L"; UniqueID = "\FUZABPZY" ("\FUZABPZY")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.be/datasheet/2/40/tap-776819.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "15.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAP106M050BRW?qs=GjEaAqXp9rZGx11KfVU76g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "VISH-293D-E_L"; UniqueID = "\DWCIDHUO" ("\DWCIDHUO")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.be/datasheet/2/40/tap-776819.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "15.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAP106M050BRW?qs=GjEaAqXp9rZGx11KfVU76g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=MAK1(makita foodprint female spade for PCD)
+Added Component: Designator=TP1(61300111121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(61300111121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(61300111121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(61300111121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(61300111121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855518"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN6_1 Pin=MAK1-1
+Added Pin To Net: NetName=NetCN6_1 Pin=MAK1-2
+Added Pin To Net: NetName=NetCN5_1 Pin=MAK1-3
+Added Pin To Net: NetName=NetCN5_1 Pin=MAK1-4
+Added Pin To Net: NetName=NetIC1_40 Pin=TP1-1
+Added Pin To Net: NetName=NetC6_2 Pin=TP2-1
+Added Pin To Net: NetName=NetC10_2 Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=NetL2_1 Pin=TP5-1
+Added Member To Class: ClassName=BatterySource_RelaisOut Member=Component MAK1 Makita battery source
+Added Member To Class: ClassName=CPU Member=Component TP1 TestPoint
+Added Member To Class: ClassName=SolderIronTemp Member=Component TP2 TestPoint
+Added Member To Class: ClassName=SolderIronTemp Member=Component TP3 TestPoint
+Added Member To Class: ClassName=SolderIronTemp Member=Component TP4 TestPoint
+Added Member To Class: ClassName=SolderIronOut Member=Component TP5 TestPoint

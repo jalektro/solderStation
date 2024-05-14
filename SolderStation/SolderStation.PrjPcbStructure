@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=BatterySource_RelaisOut.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BatterySource_RelaisOut.SchDoc|FileName=CPU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BatterySource_RelaisOut.SchDoc|FileName=SolderIronOut.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BatterySource_RelaisOut.SchDoc|FileName=SolderIronTemp.SchDoc|SheetNumber=2

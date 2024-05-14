@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=C2 Old DesignItemId=condensator 0805 New DesignItemId=Capacitor 0805
+Change Component Footprint: Designator=C2 Old Footprint=CAPC1005X55X30LL05T10 New Footprint=CAPC2012X88N
+Change Component Comment : Designator=C3 Old Comment=10µF New Comment=10nF

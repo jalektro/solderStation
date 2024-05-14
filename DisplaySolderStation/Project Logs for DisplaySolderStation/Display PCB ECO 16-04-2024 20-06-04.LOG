@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=ENC1-C
+Change Component Footprint: Designator=R1 Old Footprint=RESC2013X50X30LL20T20 New Footprint=RESC2012X50N
+Change Component Footprint: Designator=R2 Old Footprint=RESC2013X50X30LL20T20 New Footprint=RESC2012X50N
+Change Component Footprint: Designator=R3 Old Footprint=RESC2013X50X30LL20T20 New Footprint=RESC2012X50N
+Change Component Comment : Designator=C1 Old Comment=100µF 25V New Comment=100uF 25V
+Change Component Comment : Designator=LD1 Old Comment=KW4-801AVB New Comment=7Seg
+Change Component Comment : Designator=IC1 Old Comment=TM1637 New Comment=led driver TM1637

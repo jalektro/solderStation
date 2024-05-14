@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=+5 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+5 Pin=C13-2
+Removed Pin From Net: NetName=+5 Pin=C14-2
+Removed Pin From Net: NetName=+5 Pin=C15-2
+Removed Pin From Net: NetName=+5 Pin=C16-2
+Removed Pin From Net: NetName=NetC17_1 Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=ENC1-2
+Removed Pin From Net: NetName=GND Pin=ENC1-C
+Removed Pin From Net: NetName=GND Pin=IC3-1
+Removed Pin From Net: NetName=+5 Pin=IC3-16
+Removed Pin From Net: NetName=+5 Pin=J9-1
+Removed Pin From Net: NetName=GND Pin=J9-10
+Removed Pin From Net: NetName=GND Pin=J11-1
+Removed Pin From Net: NetName=GND Pin=J11-2
+Removed Pin From Net: NetName=+5 Pin=R19-2
+Removed Pin From Net: NetName=+5 Pin=R20-2
+Removed Pin From Net: NetName=+5 Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=NetC17_1 Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=NetC17_1 Pin=U2-1
+Removed Member From Class: ClassName=BatterySource_RelaisOut Member=C19
+Removed Member From Class: ClassName=CPU Member=J9
+Removed Member From Class: ClassName=CPU Member=J11
+Removed Member From Class: ClassName=BatterySource_RelaisOut Member=U1
+Change Component Comment : Designator=F1 Old Comment=3A New Comment=
+Added Component: Designator=CN4(Printkroonsteen 2pin)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://catalog.weidmueller.com/catalog/Start.do?ObjectID=1716020000&_ga=2.21797499.1716783809.1613378202-511725545.1613378202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Weidmuller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1716020000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "470-1716020000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Weidmuller/1716020000?qs=WJDKaGZ8K%252B7GSEFQgvMjVA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CN5(Printkroonsteen 2pin)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://catalog.weidmueller.com/catalog/Start.do?ObjectID=1716020000&_ga=2.21797499.1716783809.1613378202-511725545.1613378202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Weidmuller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1716020000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "470-1716020000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Weidmuller/1716020000?qs=WJDKaGZ8K%252B7GSEFQgvMjVA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CN6(Printkroonsteen 2pin)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://catalog.weidmueller.com/catalog/Start.do?ObjectID=1716020000&_ga=2.21797499.1716783809.1613378202-511725545.1613378202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Weidmuller"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1716020000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "470-1716020000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Weidmuller/1716020000?qs=WJDKaGZ8K%252B7GSEFQgvMjVA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC17_1 Pin=CN4-2
+Added Pin To Net: NetName=GND Pin=CN5-2
+Added Pin To Net: NetName=NetC17_1 Pin=F1-1
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetCN4_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=C13-2
+Added Pin To Net: NetName=NetC12_1 Pin=C14-2
+Added Pin To Net: NetName=NetC12_1 Pin=C15-2
+Added Pin To Net: NetName=NetC12_1 Pin=C16-2
+Added Pin To Net: NetName=NetC12_1 Pin=IC3-16
+Added Pin To Net: NetName=NetC12_1 Pin=J9-1
+Added Pin To Net: NetName=NetC12_1 Pin=R19-2
+Added Pin To Net: NetName=NetC12_1 Pin=R20-2
+Added Pin To Net: NetName=NetC12_1 Pin=R21-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=C13-1
+Added Pin To Net: NetName=NetC12_2 Pin=ENC1-2
+Added Pin To Net: NetName=NetC12_2 Pin=ENC1-C
+Added Pin To Net: NetName=NetC12_2 Pin=IC3-1
+Added Pin To Net: NetName=NetC12_2 Pin=J9-10
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=F1-2
+Added Pin To Net: NetName=NetC17_1 Pin=U2-1
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetCN4_1 Pin=CN4-1
+Added Pin To Net: NetName=NetCN4_1 Pin=CN6-2
+Added Net: Name=NetCN4_1
+Added Pin To Net: NetName=NetCN5_1 Pin=CN5-1
+Added Pin To Net: NetName=NetCN5_1 Pin=J11-1
+Added Pin To Net: NetName=NetCN5_1 Pin=J11-2
+Added Net: Name=NetCN5_1
+Added Pin To Net: NetName=NetCN6_1 Pin=CN6-1
+Added Pin To Net: NetName=NetCN6_1 Pin=J10-1
+Added Pin To Net: NetName=NetCN6_1 Pin=J10-2
+Added Net: Name=NetCN6_1
+Added Member To Class: ClassName=BatterySource_RelaisOut Member=Component CN4 Printkroonsteen 2 POL
+Added Member To Class: ClassName=BatterySource_RelaisOut Member=Component CN5 Printkroonsteen 2 POL
+Added Member To Class: ClassName=BatterySource_RelaisOut Member=Component CN6 Printkroonsteen 2 POL
+Added Member To Class: ClassName=CPU Member=Component J1 61300311121
+Added Member To Class: ClassName=CPU Member=Component J3 61300311121

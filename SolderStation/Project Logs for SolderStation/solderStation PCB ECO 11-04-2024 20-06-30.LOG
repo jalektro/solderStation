@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetR24_2 Pin=T5-1
+Removed Pin From Net: NetName=GND Pin=T5-2
+Removed Pin From Net: NetName=NetD2_2 Pin=T5-3
+Change Component DesignItemId : Designator=T5 Old DesignItemId=transistor BC847B NPN New DesignItemId=Transistor NPN BC547B THT
+Change Component Footprint: Designator=T5 Old Footprint=INF-SOT23_L New Footprint=ONSC-TO-92-3-29-11
+Change Component Comment : Designator=T5 Old Comment=BC847B New Comment=BC547B
+Change Component Description : Designator=T5 Old Description=NPN Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green CMP-1177-00042-1 New Description=Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Bulk Box CMP-1048-01467-1
+Change component parameters: Designator = "T5" ("T5"); Footprint = "INF-SOT23_L"; UniqueID = "\EGPZYAUO" ("\EGPZYAUO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_2 Pin=T5-1
+Added Pin To Net: NetName=NetR24_2 Pin=T5-2
+Added Pin To Net: NetName=GND Pin=T5-3

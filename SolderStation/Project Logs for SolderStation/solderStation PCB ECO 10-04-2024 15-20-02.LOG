@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1005X55X30LL05T10 New Footprint=CAPC2013X88X50LL20T25
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1005X55X30LL05T10 New Footprint=CAPC2013X88X50LL20T25
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1005X55X30LL05T10 New Footprint=CAPC2013X88X50LL20T25
+Change Component Footprint: Designator=C15 Old Footprint=CAPC1005X55X30LL05T10 New Footprint=CAPC2013X88X50LL20T25
+Change Component Footprint: Designator=C16 Old Footprint=CAPC1005X55X30LL05T10 New Footprint=CAPC2013X88X50LL20T25
+Change Component Comment : Designator=C6 Old Comment=10µF New Comment=10nF
+Change Component Comment : Designator=C7 Old Comment=10µF New Comment=10nF
+Change Component Comment : Designator=C10 Old Comment=10µF New Comment=10nF
+Change Component Comment : Designator=C11 Old Comment=10µF New Comment=10nF
+Change Component Comment : Designator=C2 Old Comment=10µF New Comment=100nF
+Change Component Comment : Designator=C3 Old Comment=10µF New Comment=100nF
+Change Component Comment : Designator=C4 Old Comment=10µF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=100nF New Comment=10nF

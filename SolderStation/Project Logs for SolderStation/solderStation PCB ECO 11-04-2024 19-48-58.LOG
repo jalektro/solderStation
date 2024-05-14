@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=NetR15_1 Pin=T1-1
+Removed Pin From Net: NetName=NetR16_2 Pin=T1-2
+Removed Pin From Net: NetName=NetCN4_2 Pin=T1-3
+Removed Pin From Net: NetName=NetR17_1 Pin=T3-1
+Removed Pin From Net: NetName=GND Pin=T3-2
+Removed Pin From Net: NetName=NetR15_1 Pin=T3-3
+Removed Pin From Net: NetName=NetR15_1 Pin=T4-1
+Removed Pin From Net: NetName=NetR16_2 Pin=T4-2
+Removed Pin From Net: NetName=GND Pin=T4-3
+Change Component DesignItemId : Designator=T1 Old DesignItemId=transistor BC847B NPN New DesignItemId=Transistor NPN BC547B THT
+Change Component DesignItemId : Designator=T3 Old DesignItemId=transistor BC847B NPN New DesignItemId=Transistor NPN BC547B THT
+Change Component DesignItemId : Designator=T4 Old DesignItemId=Transistor BC857C New DesignItemId=Transistor PNP BC557 THT
+Change Component Footprint: Designator=T1 Old Footprint=INF-SOT23_L New Footprint=ONSC-TO-92-3-29-11
+Change Component Footprint: Designator=T3 Old Footprint=INF-SOT23_L New Footprint=ONSC-TO-92-3-29-11
+Change Component Footprint: Designator=T4 Old Footprint=INF-SOT23_L New Footprint=ONSC-TO-92-3-29-11
+Change Component Comment : Designator=T1 Old Comment=BC847B New Comment=BC547B
+Change Component Comment : Designator=T3 Old Comment=BC847B New Comment=BC547B
+Change Component Comment : Designator=T4 Old Comment=BC857C New Comment=BC557BTF
+Change Component Description : Designator=T1 Old Description=NPN Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green CMP-1177-00042-1 New Description=Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Bulk Box CMP-1048-01467-1
+Change Component Description : Designator=T3 Old Description=NPN Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green CMP-1177-00042-1 New Description=Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Bulk Box CMP-1048-01467-1
+Change Component Description : Designator=T4 Old Description=PNP Silicon AF Transistor, 45 V VCEO, 100 mA IC, SOT23, Reel, Green CMP-1177-00039-1 New Description=BC557BTF Small Signal Bipolar Transistor, 0.1A I(C), 45V V(BR)CEO, 1-Element, PNP, Silicon, TO-92 CMP-00278-84408945-1
+Change component parameters: Designator = "T1" ("T1"); Footprint = "INF-SOT23_L"; UniqueID = "\ONRCVOPC" ("\ONRCVOPC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T3" ("T3"); Footprint = "INF-SOT23_L"; UniqueID = "\NTXYRPTL" ("\NTXYRPTL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BC546-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC547B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "FALSE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "T4" ("T4"); Footprint = "INF-SOT23_L"; UniqueID = "\TRXNVKFG" ("\TRXNVKFG")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Base Voltage (VCBO)"; Value = "-50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Emitter Breakdown Voltage"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Emitter Saturation Voltage"; Value = "-250mV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Emitter Voltage (VCEO)"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "-100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Emitter Base Voltage (VEBO)"; Value = "-5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "150MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain Bandwidth Product"; Value = "150MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "hFE Min"; Value = "110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "5.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Breakdown Voltage"; Value = "45V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Collector Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Frequency"; Value = "10MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "84408945"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541210080, 8541210080|8541210080|8541210080|8541210080|8541210080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transition Frequency"; Value = "150MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "-45V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "240mg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "4.19mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCN4_2 Pin=T1-1
+Added Pin To Net: NetName=NetR15_1 Pin=T1-2
+Added Pin To Net: NetName=NetR16_2 Pin=T1-3
+Added Pin To Net: NetName=NetR15_1 Pin=T3-1
+Added Pin To Net: NetName=NetR17_1 Pin=T3-2
+Added Pin To Net: NetName=GND Pin=T3-3
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=NetR15_1 Pin=T4-2
+Added Pin To Net: NetName=NetR16_2 Pin=T4-3

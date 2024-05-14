@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=capacitor SMD 100µF 25V New DesignItemId=capacitor THT radial tantalum
+Change Component Footprint: Designator=C1 Old Footprint=FP-T495X107K025ATE150-MFG New Footprint=TAP106M050BRW
+Change Component Description : Designator=C1 Old Description=CAP TANT 100UF 10% 25V 2917CMP-03017-000022-1495X107K025ATE150 New Description=Tantalum Capacitors - Solid Leaded 50V 10uF 20% ESR=1.6 Ohm TAP106M050BRW
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-T495X107K025ATE150-MFG"; UniqueID = "\JPYEUOAA" ("\JPYEUOAA")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.be/datasheet/2/40/tap-776819.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "15.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "581-TAP106M050BRW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/AVX/TAP106M050BRW?qs=GjEaAqXp9rZGx11KfVU76g%3D%3D"; VariantName = "[No Variations]"

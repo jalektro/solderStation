@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [DisplaySolderStation.PrjPcb]
+   Generated File[Display_Copper_Signal_Top.gbr]
+   Generated File[Display_Copper_Signal_Bot.gbr]
+   Generated File[Display_Legend_Top.gbr]
+   Generated File[Display_Legend_Bot.gbr]
+   Generated File[Display_Soldermask_Top.gbr]
+   Generated File[Display_Soldermask_Bot.gbr]
+   Generated File[Display_Paste_Top.gbr]
+   Generated File[Display_Paste_Bot.gbr]
+   Generated File[Display_Board.gbr]
+   Generated File[Display_Profile.gbr]
+   Generated File[Display_NPTH_Drill.gbr]
+   Generated File[Display_PTH_Drill.gbr]
+   Generated File[Display.EXTREP]
+   Generated File[Display.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 20:32:01 On 16/04/2024

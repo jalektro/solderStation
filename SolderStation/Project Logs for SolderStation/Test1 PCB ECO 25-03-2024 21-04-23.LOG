@@ -1,0 +1,17 @@
+Change Component Comment : Designator=C14 Old Comment=10n New Comment=10nF
+Change Component Comment : Designator=C15 Old Comment=10n New Comment=10nF
+Change Component Comment : Designator=C16 Old Comment=10n New Comment=10nF
+Change Component Comment : Designator=C1 Old Comment=10uF 50V New Comment=10µF 50V
+Change Component Comment : Designator=C13 Old Comment=100n New Comment=100nF
+Change Component Comment : Designator=C12 Old Comment=100uF 25V New Comment=100µF 25V
+Change Component Designator: OldDesignator=J1 NewDesignator=J9
+Change Component Designator: OldDesignator=J2 NewDesignator=J10
+Change Component Designator: OldDesignator=J3 NewDesignator=J11
+Change Component Designator: OldDesignator=P1 NewDesignator=J1
+Change Component Designator: OldDesignator=P2 NewDesignator=J2
+Change Component Designator: OldDesignator=P3 NewDesignator=J3
+Change Component Designator: OldDesignator=P4 NewDesignator=J4
+Change Component Designator: OldDesignator=P5 NewDesignator=J5
+Change Component Designator: OldDesignator=P6 NewDesignator=J6
+Change Component Designator: OldDesignator=P7 NewDesignator=J7
+Change Component Designator: OldDesignator=P8 NewDesignator=J8
