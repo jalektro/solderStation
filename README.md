@@ -2,9 +2,9 @@ First big schoolproject : SolderStation that is powered bij a battery(makita 18V
 
 In the files you can find all the schematics of the main board. There is a connection for a makita battery what can connect directly on makita 644808-8 terminal.
 
-<<<<<<< HEAD
-the dispaly is external and is powered by a cable between display PCB and main PCB. 
-=======
+
+the display is external and is powered by a cable between display PCB and main PCB. 
+
 the GX12 pin for soldering is wired as follows : 
 -  Pin1 power from common mode choke CM2545X171B-10
 -  Pin2 ground from common mode choke CM2545X171B-10
