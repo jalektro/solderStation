@@ -14,4 +14,4 @@ the GX12 pin for soldering is wired as follows :
 There are some issues in the schematics that needs to be fixed. 
 The OP-AMP MCP6002-I/P VSS(pin4) and VCC(pin8)  are switched this is fixed in the schematics but not on PCB
 The C-pin  of the rotary encoder PEC11R-4220F-S0012  switch is nog connected to gorund. Fixed on schematic but not on PCB
->>>>>>> 762a398f74fe2f4c38dfc8988f6786e8fcf9c261
+
